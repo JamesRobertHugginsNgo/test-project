@@ -1,0 +1,13 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JamesRobertHugginsNgo/test-project.git",
+  "author": "James Robert Huggins Ngo <jamesroberthugginsngo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "test-lib",
+    "test-app"
+  ]
+}
